@@ -4,7 +4,7 @@
 #include <string.h>
 
 /*
- Função : Redução do elemento radioativo
+ Função : Calcular IMC
  Autor : Lucas Emanuel Nascimento Nóbrega Dias
  Data : 30/03/2023
  Observações:
