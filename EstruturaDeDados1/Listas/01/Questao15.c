@@ -5,8 +5,8 @@
 /*
  Função : Calcular capital acumulado por anos com juros compostos
  Autor : Lucas Emanuel Nascimento Nóbrega Dias
- Data : 30/03/2023
- Observações:
+ Data : 29/03/2023
+ Observações: Turma CC 2022.1
 */
 
 float calculate_accumulated_capital(float capital, float fees, float years)

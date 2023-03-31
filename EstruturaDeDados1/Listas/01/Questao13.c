@@ -4,8 +4,8 @@
 /*
  Função : Converter graus para radianos
  Autor : Lucas Emanuel Nascimento Nóbrega Dias
- Data : 30/03/2023
- Observações:
+ Data : 29/03/2023
+ Observações: Turma CC 2022.1
 */
 
 const float PI = 3.14159265;

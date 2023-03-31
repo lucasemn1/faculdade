@@ -6,7 +6,7 @@
  Função : Calcular distância dos pontos
  Autor : Lucas Emanuel Nascimento Nóbrega Dias
  Data : 29/03/2023
- Observações:
+ Observações: Turma CC 2022.1
 */
 
 float calculate_distance(float x1, float x2, float y1, float y2)

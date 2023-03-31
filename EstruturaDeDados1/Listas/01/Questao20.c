@@ -6,8 +6,8 @@
 /*
  Função : Calcular IMC
  Autor : Lucas Emanuel Nascimento Nóbrega Dias
- Data : 30/03/2023
- Observações:
+ Data : 29/03/2023
+ Observações: Turma CC 2022.1
 */
 
 int calculate_IMC(float weight, float height)

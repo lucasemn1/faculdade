@@ -6,7 +6,7 @@
  Função : Produto notável cubico
  Autor : Lucas Emanuel Nascimento Nóbrega Dias
  Data : 29/03/2023
- Observações:
+ Observações: Turma CC 2022.1
 */
 
 int main()

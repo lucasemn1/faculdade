@@ -6,8 +6,8 @@
 /*
  Função : Fazer sequência de Fibonacci
  Autor : Lucas Emanuel Nascimento Nóbrega Dias
- Data : 30/03/2023
- Observações:
+ Data : 29/03/2023
+ Observações: Turma CC 2022.1
 */
 
 const double CONSTANT = 1.6180339887498;

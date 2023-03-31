@@ -6,7 +6,7 @@
  Função : Calcular área do círculo
  Autor : Lucas Emanuel Nascimento Nóbrega Dias
  Data : 29/03/2023
- Observações:
+ Observações: Turma CC 2022.1
 */
 
 const float PI = 3.14159265;

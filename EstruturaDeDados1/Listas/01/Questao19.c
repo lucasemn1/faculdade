@@ -1,12 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <math.h>
 
 /*
  Função : Redução do elemento radioativo
  Autor : Lucas Emanuel Nascimento Nóbrega Dias
- Data : 30/03/2023
- Observações:
+ Data : 29/03/2023
+ Observações: Turma CC 2022.1
 */
 
 int calculate_time_to_be_final_mass(float mass, int current_time, float final_mass)
